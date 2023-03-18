@@ -188,19 +188,19 @@ body{
     87.5%{
         left: 405px;
         bottom: 90px;
-        transform: none;
+        transform: rotate(-360deg);
     }
 
     93.75%{
         left: 510px;
         bottom: 120px;
-        transform: rotate(-45deg);
+        transform: rotate(-405deg);
     }
 
     100%{
         left: 535px;
         bottom: 230px;
-        transform: rotate(-90deg);
+        transform: rotate(-450deg);
     }
 
 }
